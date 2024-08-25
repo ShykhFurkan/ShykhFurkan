@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShykhFurkan
 - 👀 I’m interested in web development and web designing
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development | Python | AI/ML
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me @shykh.furkan(instagram)
 - 😄 Pronouns: he/him
